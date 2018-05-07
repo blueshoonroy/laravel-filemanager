@@ -1,8 +1,6 @@
 # Laravel Filemanager
-[![Travis CI](https://img.shields.io/travis/UniSharp/laravel-filemanager.svg)](https://travis-ci.org/UniSharp/laravel-filemanager)
-[![Total Downloads](https://poser.pugx.org/unisharp/laravel-filemanager/downloads)](https://packagist.org/packages/unisharp/laravel-filemanager)
-[![Latest Unstable Version](https://img.shields.io/badge/unstable-v2.0.0--alpha3-orange.svg)](https://packagist.org/packages/unisharp/laravel-filemanager)
 [![Latest Stable Version](https://poser.pugx.org/unisharp/laravel-filemanager/v/stable)](https://packagist.org/packages/unisharp/laravel-filemanager)
+[![Total Downloads](https://poser.pugx.org/unisharp/laravel-filemanager/downloads)](https://packagist.org/packages/unisharp/laravel-filemanager)
 [![License](https://poser.pugx.org/unisharp/laravel-filemanager/license)](https://packagist.org/packages/unisharp/laravel-filemanager)
 
  * Document : [unisharp.github.io/laravel-filemanager](http://unisharp.github.io/laravel-filemanager/)
@@ -43,15 +41,13 @@ This approach ensures that only authenticated users have access to the Laravel-F
 * [x] (done) Unit test
 * [x] (done) Integrate with Laravel Storage
 * [x] (done) Multiple selection
-* [x] (done) Responsive design
-* [x] (done) Config refactoring
+* [ ] Configurable disk of storage
+* [ ] (in progress) Responsive design
+* [ ] (in progress) Config refactoring
 * [x] (done) JSON APIs
 * [ ] Move to folder function
-* [x] (done) Applying MIME icon generator
-* [x] (done) Refactor floating action buttons
-* [x] (done) Configurable disk of storage
+* [ ] Applying MIME icon generator
 * [x] (done) Bootstrap 4 support
-* [x] (done) Remove bootbox
 
 
 ## Contributors & Credits
