@@ -1,5 +1,5 @@
 {
-  "name": "unisharp/laravel-filemanager",
+  "name": "blueshoon/laravel-filemanager-ig",
   "description": "A file upload/editor intended for use with Laravel 5 and CKEditor / TinyMCE",
   "license": "MIT",
   "keywords": [
@@ -14,12 +14,12 @@
   ],
   "authors": [
     {
-      "name": "Trevor Sawler",
-      "email": "trevor.sawler@gmail.com"
+      "name": "Roy Palondikar",
+      "email": "roy@blueshoon.com"
     },
     {
-      "name": "UniSharp Ltd.",
-      "email": "unisharp-service@unisharp.com"
+      "name": "Blueshoon, inc",
+      "email": "roy@blueshoon.com"
     }
   ],
   "require": {
